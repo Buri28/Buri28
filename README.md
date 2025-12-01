@@ -1,4 +1,4 @@
-## Hi there 👋
+## BeatSaberのMODを中心に開発する予定です。(準備中)
 
 <!--
 **Buri28/Buri28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
