@@ -1,5 +1,7 @@
 ## BeatSaberのMODを中心に開発していく予定です。(準備中)
-※ソースコードは確認していますが、だいぶAIの力を借りて開発しています。
+~~廃BeatSaberプレイヤー~~BeatSaberの愛好家として、こんな機能があったらなというMODを作っていこうと思います。  
+私の欲望に基づいて作っていますので、些細な機能だったりマニア向けなるかもしれないことを予めお詫びいたします。  
+※AIの力をふんだんに借りて開発しています。ソースコードとして問題がないことは確認しています。  
 
 <!--
 **Buri28/Buri28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
