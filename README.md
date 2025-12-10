@@ -6,6 +6,7 @@
 ※ 開発はAIの力をふんだんに借りていますが、ソースコードとして問題がないことは確認しています。  
 ※ 制作予定のプロジェクトも表示していますが、作るかどうかは状況次第となります。 
 
+自作の台形カスタムノーツ：https://x.com/Buri_Resawa/status/1701996905163898890
 <!--
 **Buri28/Buri28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
