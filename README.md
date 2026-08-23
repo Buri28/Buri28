@@ -17,7 +17,7 @@
 | [WallHitSound](https://github.com/Buri28/WallHitSound) | MOD | 壁に衝突したときに音を鳴らすMOD<br> ※衝突時のエフェクト機能もあり | v1.1.0 | BS 1.39.1 / 1.40.8 |
 | [WallHitCounter](https://github.com/Buri28/WallHitCounter) | MOD | 壁とボムの衝突回数を表示するCountersPlusのシンプルなカスタムカウンター | v1.0.0 | BS 1.39.1 / 1.40.8 |
 | [HazardTimer](https://github.com/Buri28/HazardTimer) | MOD | リプレイファイルをもとに、衝突した壁やフェイル地点に近づくとカウントダウンするMOD | 試作段階<br>(近日公開予定) | BS 1.39.1 / 1.40.8 |
-| [ModMemoryProfiler](https://github.com/Buri28/ModMemoryProfiler) | MOD | MODのメモリプロファイラ | 試作段階<br>(製作者環境のリーク調査中) | BS 1.40.8（BSIPA 4.3+ / BSML 1.12+） |
+| [ModMemoryProfiler](https://github.com/Buri28/ModMemoryProfiler) | MOD | MODのメモリプロファイラ | 試作段階<br>(製作者環境のリーク調査中) | BS 1.39.1 / 1.40.8 |
 | [SkyLight](https://github.com/Buri28/SkyLight) | MOD | 既存Environment（環境）の背景や構造物の色を変更したり非表示にするMOD <br>※今のところリリースする予定はありません。<br>(完成度が上がったら考えます) | 試作段階<br>(リリース予定なし) | BS 1.40.8 |
 
 <!--
