@@ -20,6 +20,8 @@
 | [ModMemoryProfiler](https://github.com/Buri28/ModMemoryProfiler) | MOD<br>(C#) | MODのメモリプロファイラ | 試作段階<br>(製作者環境のリーク調査中) | BS 1.39.1 / 1.40.8 |
 | [SkyLight](https://github.com/Buri28/SkyLight) | MOD<br>(C#) | 既存Environment（環境）の背景や構造物の色を変更したり非表示にするMOD <br>※今のところリリースする予定はありません。<br>(完成度が上がったら考えます) | 試作段階<br>(リリース予定なし) | BS 1.40.8 |
 
+→案だしレベルで検討中：ジャンプ練習MOD
+
 <!--
 **Buri28/Buri28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
