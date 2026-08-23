@@ -8,17 +8,17 @@
 
 ## 開発中のツールやMOD
 
-| ツールやMOD | 区分 | 概要 | 言語 | バージョン | 動作確認バージョン |
-| --- | --- | --- | --- | --- | --- |
-| [MyBeatSaberStats](https://github.com/Buri28/MyBeatSaberStats) | ツール | Beat Saber の SteamIdに紐づく Statsをデスクトップから閲覧するためのアプリ | Python | 0.8.4 (β) | Win11 |
-| [quest-vd-wired-watchdog](https://github.com/Buri28/quest-vd-wired-watchdog) | ツール | Questの起動し直しによりQuest VD Wiredの接続が切れても、復旧して繋げ直す常駐スクリプト<br>（QuestでVirtualDesktopに有線接続する人向け） | PowerShell | v1.1 | Win11 |
-| [MapMemo](https://github.com/Buri28/MapMemo) | MOD | マップごとにローカルメモを残すMOD | C# | v1.2.0 | BS 1.39.1 / 1.40.8 / 1.42.3 |
-| [LRCounter](https://github.com/Buri28/LRCounter) | MOD | 左右の精度とPPを表示するカウンター<br>右手と左手の精度が違いすぎる人向け）<br>※左右のサウンドにも対応 | C# | v0.3.0 | BS 1.39.1 / 1.40.8 |
-| [WallHitSound](https://github.com/Buri28/WallHitSound) | MOD | 壁に衝突したときに音を鳴らすMOD | C# | v1.1.0 | Beat Saber 1.39.1 / 1.40.8 |
-| [WallHitCounter](https://github.com/Buri28/WallHitCounter) | MOD | 壁とボムの衝突回数を表示するCountersPlusのシンプルなカスタムカウンター | C# | v1.0.0 | BS 1.39.1 / 1.40.8 |
-| [HazardTimer](https://github.com/Buri28/HazardTimer) | MOD | リプレイファイルをもとに、衝突した壁やフェイル地点に近づくとカウントダウンするMOD | C# | 試作段階<br>(近日公開予定) | BS 1.39.1 / 1.40.8 |
-| [ModMemoryProfiler](https://github.com/Buri28/ModMemoryProfiler) | MOD | MODのメモリプロファイラ | C# | 試作段階<br>(作者環境のリーク調査中) | BS 1.40.8（BSIPA 4.3+ / BSML 1.12+） |
-| [SkyLight](https://github.com/Buri28/SkyLight) | MOD | 既存Environment（環境）の背景や構造物の色を変更したり非表示にするMOD <br>※今のところ公開する予定はありません。<br>(完成度が上がったら考えます) | C# | 試作段階 | BS 1.40.8 |
+| ツールやMOD | 区分 | 概要 | バージョン | 動作確認バージョン |
+| --- | --- | --- | --- | --- |
+| [MyBeatSaberStats](https://github.com/Buri28/MyBeatSaberStats) | ツール | 譜面の消化状況、PPやランクなどをスナップショットとして保存し、デスクトップから閲覧するためのアプリ | 0.8.4 (β) | Win11 |
+| [quest-vd-wired-watchdog](https://github.com/Buri28/quest-vd-wired-watchdog) | ツール | QuestやPCの再起動によりQuest VD Wiredの接続が切れても、復旧して繋げ直す常駐スクリプト<br>（QuestでVirtualDesktopに有線接続する人向け） | v1.1 | Win11 |
+| [MapMemo](https://github.com/Buri28/MapMemo) | MOD | マップごとにローカルメモを残すMOD | v1.2.0 | BS 1.39.1 / 1.40.8 / 1.42.3 |
+| [LRCounter](https://github.com/Buri28/LRCounter) | MOD | 左右の精度とPPを表示するカウンター<br>(右手と左手の精度が違いすぎる人向け）<br>※左右のサウンドにも対応 | v0.3.0 | BS 1.39.1 / 1.40.8 |
+| [WallHitSound](https://github.com/Buri28/WallHitSound) | MOD | 壁に衝突したときに音を鳴らすMOD<br> ※衝突時のエフェクト機能もあり | v1.1.0 | BS 1.39.1 / 1.40.8 |
+| [WallHitCounter](https://github.com/Buri28/WallHitCounter) | MOD | 壁とボムの衝突回数を表示するCountersPlusのシンプルなカスタムカウンター | v1.0.0 | BS 1.39.1 / 1.40.8 |
+| [HazardTimer](https://github.com/Buri28/HazardTimer) | MOD | リプレイファイルをもとに、衝突した壁やフェイル地点に近づくとカウントダウンするMOD | 試作段階<br>(近日公開予定) | BS 1.39.1 / 1.40.8 |
+| [ModMemoryProfiler](https://github.com/Buri28/ModMemoryProfiler) | MOD | MODのメモリプロファイラ | 試作段階<br>(製作者環境のリーク調査中) | BS 1.40.8（BSIPA 4.3+ / BSML 1.12+） |
+| [SkyLight](https://github.com/Buri28/SkyLight) | MOD | 既存Environment（環境）の背景や構造物の色を変更したり非表示にするMOD <br>※今のところリリースする予定はありません。<br>(完成度が上がったら考えます) | 試作段階<br>(リリース予定なし) | BS 1.40.8 |
 
 <!--
 **Buri28/Buri28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
