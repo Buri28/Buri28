@@ -20,7 +20,11 @@
 | [ModMemoryProfiler](https://github.com/Buri28/ModMemoryProfiler) | MOD<br>(C#) | MODのメモリプロファイラ | 試作段階<br>(製作者環境のリーク調査中) | BS 1.39.1 / 1.40.8 |
 | [SkyLight](https://github.com/Buri28/SkyLight) | MOD<br>(C#) | 既存Environment（環境）の背景や構造物の色を変更したり非表示にするMOD <br>※今のところリリースする予定はありません。<br>(完成度が上がったら考えます) | 試作段階<br>(リリース予定なし) | BS 1.40.8 |
 
-→案だしレベルで検討中：ジャンプ練習MOD。捻じれ具合や再現性で得点を出すと面白いかも…
+※案だしレベルで検討中  
+・リプレイ解析ツール：BeatLeaderのリプレイからフォアハンドとバックハンドに分けて解析  
+・ジャンプ練習譜面生成ツール(1段階目)  ：ツールからジャンプ配置だけの譜面作成
+・ジャンプ練習MOD(2段階目)：MODからジャンプ配置だけの譜面作成。捻じれ具合や軌道の再現性、フォアとバックの切る位置の差などで得点を出したい
+・振りのフォームや姿勢を強制するMOD：コントローラの位置や捻じれから肘の位置などを出す
 
 <!--
 **Buri28/Buri28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
