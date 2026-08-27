@@ -13,7 +13,7 @@
 | [MyBeatSaberStats](https://github.com/Buri28/MyBeatSaberStats) | ツール<br>(Python)　 | 譜面の消化状況、PPやランクなどをスナップショットとして保存し、デスクトップから閲覧するためのアプリ | 0.8.4 (β) | Win11 |
 | [quest-vd-wired-watchdog](https://github.com/Buri28/quest-vd-wired-watchdog) | ツール<br>(PowerShell)　 | QuestやPCの再起動によってQuest VD Wiredの接続が切れても、復旧し繋げ直す常駐スクリプト<br>（QuestでVirtualDesktopに有線接続する人向け） | v1.1 | Win11 |
 | [MapMemo](https://github.com/Buri28/MapMemo) | MOD<br>(C#) | マップごとにローカルメモを残すMOD | v1.2.0 | BS 1.39.1 / 1.40.8 / 1.42.3 |
-| [LRCounter](https://github.com/Buri28/LRCounter) | MOD<br>(C#) | 左右の精度とPPを表示するカウンター<br>(右手と左手の精度が違いすぎる人向け）<br>※左右のサウンドにも対応 | v0.3.0 | BS 1.39.1 / 1.40.8 |
+| [LRCounter](https://github.com/Buri28/LRCounter) | MOD<br>(C#) | 左右の精度とPPを表示するカウンター<br>(右手と左手の精度が違いすぎる人向け）<br>※左右のサウンドにも対応 | v0.3.1 | BS 1.39.1 / 1.40.8 |
 | [WallHitSound](https://github.com/Buri28/WallHitSound) | MOD<br>(C#) | 壁に衝突したときに音を鳴らすMOD<br> ※衝突時のエフェクト機能もあり | v1.1.0 | BS 1.39.1 / 1.40.8 |
 | [WallHitCounter](https://github.com/Buri28/WallHitCounter) | MOD<br>(C#) | 壁とボムの衝突回数を表示するCountersPlusのシンプルなカスタムカウンター | v1.0.0 | BS 1.39.1 / 1.40.8 |
 | [HazardTimer](https://github.com/Buri28/HazardTimer) | MOD<br>(C#) | リプレイファイルをもとに、衝突した壁やフェイル地点に近づくとカウントダウンするMOD | 試作段階<br>(近日リリース予定) | BS 1.39.1 / 1.40.8 |
