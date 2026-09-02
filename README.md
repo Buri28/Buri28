@@ -26,7 +26,8 @@
 ・ジャンプ練習MOD(2段階目)：MODからジャンプ配置だけの譜面作成。  
 　捻じれ具合や軌道の再現性、フォアとバックの切る位置の差などで得点を出したい  
 ・振りのフォームや姿勢を強制するMOD：コントローラの位置や捻じれから肘の位置などを出す  
-・体重・運動量・睡眠時間管理ツール(ビーセイじゃないけど)
+・体重・運動量・睡眠時間管理ツール(ビーセイじゃないけど)  
+[検討中のもの](https://github.com/Buri28/considering)
 <!--
 **Buri28/Buri28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
