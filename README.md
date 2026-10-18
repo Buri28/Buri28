@@ -9,18 +9,18 @@
 ## VR関連
 | ツール | 区分 | 概要 | バージョン | 動作確認バージョン |
 | --- | --- | --- | --- | --- |
-| [quest-vd-wired-watchdog](https://github.com/Buri28/quest-vd-wired-watchdog) | ツール<br>(PowerShell)　 | QuestやPCの再起動によってQuest VD Wiredの接続が切れても、復旧し繋げ直す常駐スクリプト<br>（QuestでVirtualDesktopに有線接続する人向け） | v1.2 | Win11 |
+| [quest-vd-wired-watchdog](https://github.com/Buri28/quest-vd-wired-watchdog) | ツール<br>(PowerShell)　 | QuestやPCの再起動によってQuest VD Wiredの接続が切れても、復旧し繋げ直す常駐スクリプト<br>（QuestでVirtualDesktopに有線接続する人向け） | v1.2<br>(2026-10-11) | Win11 |
 
 ## BeatSaber関連
 | ツールやMOD | 区分 | 概要 | バージョン | 動作確認バージョン |
 | --- | --- | --- | --- | --- |
-| [MyBeatSaberStats](https://github.com/Buri28/MyBeatSaberStats) | ツール<br>(Python)　 | 譜面の消化状況、PPやランクなどをスナップショットとして保存し、デスクトップから閲覧するためのアプリ | 0.8.4 (β) | Win11 |
-| [MapMemo](https://github.com/Buri28/MapMemo) | MOD<br>(C#) | マップごとにローカルメモを残すMOD | v1.2.0 | BS 1.39.1 / 1.40.8 / 1.42.3 |
-| [LRCounter](https://github.com/Buri28/LRCounter) | MOD<br>(C#) | 左右の精度とPPを表示するカウンター<br>(右手と左手の精度が違いすぎる人向け）<br>※左右のサウンドにも対応 | v0.3.1 | BS 1.39.1 / 1.40.8 |
-| [WallHitSound](https://github.com/Buri28/WallHitSound) | MOD<br>(C#) | 壁に衝突したときに音を鳴らすMOD<br> ※衝突時のエフェクト機能もあり | v1.1.0 | BS 1.39.1 / 1.40.8 |
-| [WallHitCounter](https://github.com/Buri28/WallHitCounter) | MOD<br>(C#) | 壁とボムの衝突回数を表示するCountersPlusのシンプルなカスタムカウンター | v1.0.0 | BS 1.39.1 / 1.40.8 |
-| [HazardTimer](https://github.com/Buri28/HazardTimer) | MOD<br>(C#) | リプレイファイルをもとに、衝突した壁やフェイル地点に近づくとカウントダウンするMOD | v0.1.0 | BS 1.39.1 / 1.40.8 |
-| [JumpDrill](https://github.com/Buri28/JumpDrill)　★New | ツール & MOD<br>(C#) | Jumpドリル譜面を作って練習するためのツールとMOD | v0.2.0 ★New | BS 1.39.1 / 1.40.8 / 1.44.1 |
+| [MyBeatSaberStats](https://github.com/Buri28/MyBeatSaberStats) | ツール<br>(Python)　 | 譜面の消化状況、PPやランクなどをスナップショットとして保存し、デスクトップから閲覧するためのアプリ | 0.8.4 (β)<br>(2026-08-01) | Win11 |
+| [MapMemo](https://github.com/Buri28/MapMemo) | MOD<br>(C#) | マップごとにローカルメモを残すMOD | v1.2.0<br>(2026-05-10) | BS 1.39.1 / 1.40.8 / 1.42.3 |
+| [LRCounter](https://github.com/Buri28/LRCounter) | MOD<br>(C#) | 左右の精度とPPを表示するカウンター<br>(右手と左手の精度が違いすぎる人向け）<br>※左右のサウンドにも対応 | v0.3.1<br>(2026-08-26) | BS 1.39.1 / 1.40.8 |
+| [WallHitSound](https://github.com/Buri28/WallHitSound) | MOD<br>(C#) | 壁に衝突したときに音を鳴らすMOD<br> ※衝突時のエフェクト機能もあり | v1.1.0<br>(2026-08-22) | BS 1.39.1 / 1.40.8 |
+| [WallHitCounter](https://github.com/Buri28/WallHitCounter) | MOD<br>(C#) | 壁とボムの衝突回数を表示するCountersPlusのシンプルなカスタムカウンター | v1.0.0<br>(2025-12-10) | BS 1.39.1 / 1.40.8 |
+| [HazardTimer](https://github.com/Buri28/HazardTimer) | MOD<br>(C#) | リプレイファイルをもとに、衝突した壁やフェイル地点に近づくとカウントダウンするMOD | v0.1.0<br>(2026-08-28) | BS 1.39.1 / 1.40.8 |
+| [JumpDrill](https://github.com/Buri28/JumpDrill)　★New | ツール & MOD<br>(C#) | Jumpドリル譜面を作って練習するためのツールとMOD | v0.2.0 ★New<br>(2026-10-18) | BS 1.39.1 / 1.40.8 / 1.44.1 |
 | [ModMemoryProfiler](https://github.com/Buri28/ModMemoryProfiler) | MOD<br>(C#) | MODのメモリプロファイラ | 試作段階<br>(製作者環境のリーク調査中) | BS 1.39.1 / 1.40.8 |
 | [SkyLight](https://github.com/Buri28/SkyLight) | MOD<br>(C#) | 既存Environment（環境）の背景や構造物の色を変更したり非表示にするMOD <br>※今のところリリースする予定はありません。<br>(完成度が上がったら考えます) | 試作段階<br>(リリース予定なし) | BS 1.40.8 |
 
