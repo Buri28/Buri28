@@ -16,7 +16,7 @@
 | --- | --- | --- | --- | --- |
 | [MyBeatSaberStats](https://github.com/Buri28/MyBeatSaberStats) | ツール<br>(Python)　 | 譜面の消化状況、PPやランクなどをスナップショットとして保存し、デスクトップから閲覧するためのアプリ | 0.8.5 (β)<br>(2026-10-29) | Win11 |
 | [MapMemo](https://github.com/Buri28/MapMemo) | MOD<br>(C#) | マップごとにローカルメモを残すMOD | v1.2.0<br>(2026-05-10) | BS 1.39.1 / 1.40.8 / 1.42.3 |
-| [LRCounter](https://github.com/Buri28/LRCounter) | MOD<br>(C#) | 左右の精度とPPを表示するカウンター<br>(右手と左手の精度が違いすぎる人向け）<br>※左右のサウンドにも対応 | v0.3.1<br>(2026-08-26) | BS 1.39.1 / 1.40.8 |
+| [LRCounter](https://github.com/Buri28/LRCounter) | MOD<br>(C#) | 左右の精度とPPを表示するカウンター<br>(右手と左手の精度が違いすぎる人向け）<br>※左右のサウンドにも対応 | v0.3.2<br>(2026-08-26) | BS 1.39.1 / 1.40.8 / 1.44.1 |
 | [WallHitSound](https://github.com/Buri28/WallHitSound) | MOD<br>(C#) | 壁に衝突したときに音を鳴らすMOD<br> ※衝突時のエフェクト機能もあり | v1.1.0<br>(2026-08-22) | BS 1.39.1 / 1.40.8 |
 | [WallHitCounter](https://github.com/Buri28/WallHitCounter) | MOD<br>(C#) | 壁とボムの衝突回数を表示するCountersPlusのシンプルなカスタムカウンター | v1.0.0<br>(2025-12-10) | BS 1.39.1 / 1.40.8 |
 | [HazardTimer](https://github.com/Buri28/HazardTimer) | MOD<br>(C#) | リプレイファイルをもとに、衝突した壁やフェイル地点に近づくとカウントダウンするMOD | v0.1.0<br>(2026-08-28) | BS 1.39.1 / 1.40.8 |
