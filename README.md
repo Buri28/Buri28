@@ -21,7 +21,7 @@
 | [WallHitCounter](https://github.com/Buri28/WallHitCounter) | MOD<br>(C#) | 壁とボムの衝突回数を表示するCountersPlusのシンプルなカスタムカウンター | v1.0.0<br>(2025-12-10) | BS 1.39.1 / 1.40.8 |
 | [HazardTimer](https://github.com/Buri28/HazardTimer) | MOD<br>(C#) | リプレイファイルをもとに、衝突した壁やフェイル地点に近づくとカウントダウンするMOD | v0.1.0<br>(2026-08-28) | BS 1.39.1 / 1.40.8 |
 | [JumpDrill](https://github.com/Buri28/JumpDrill)　★New | ツール & MOD<br>(C#) | Jumpドリル譜面を作って練習するためのツールとMOD | v0.3.0 ★New<br>(2026-10-24) | BS 1.39.1 / 1.40.8 / 1.44.1 |
-| [SkyLight](https://github.com/Buri28/SkyLight)　★New | MOD<br>(C#) | 既存Environment（環境）の背景や構造物の色を変更したり非表示にするMOD | v0.1.0 ★New<br>(2026-11-01) | 1.40.8 / 1.44.1 |
+| [SkyLight](https://github.com/Buri28/SkyLight)　★New | MOD<br>(C#) | 既存Environment（環境）の背景や構造物の色を変更したり非表示にするMOD | v0.1.0 ★New<br>(2026-11-01) | BS 1.40.8 / 1.44.1 |
 | [ModMemoryProfiler](https://github.com/Buri28/ModMemoryProfiler) | MOD<br>(C#) | MODのメモリプロファイラ | 試作段階<br>(製作者環境のリーク調査中) | BS 1.39.1 / 1.40.8 |
 
 
